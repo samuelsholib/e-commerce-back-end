@@ -1,9 +1,6 @@
 # e-commerce-back-end
 
-#E-Commerce-back-end is a command-line interface applicaiton for built for commercial use such as shopping. It is built using node packages such as; mysql2, sequelize, dotenv, and express.js.
-
-
-
+E-Commerce-back-end is a command-line interface applicaiton built for commercial use such as shopping. It is built using node packages such as; mysql2, sequelize, and express.js.
 ## User Story
 
 ```md
